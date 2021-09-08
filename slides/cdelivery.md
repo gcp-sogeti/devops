@@ -3,7 +3,7 @@
 ----
 
 ### S'appuie sur la Continuous Integration 
-<img src="images/wf-cdelivery.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/wf-cdelivery.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

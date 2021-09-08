@@ -3,7 +3,7 @@
 ----
 
 ### S'appuie sur le Continuous Delivery
-<img src="images/wf-cdeployment.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/wf-cdeployment.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

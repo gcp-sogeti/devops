@@ -9,7 +9,7 @@
 
 ### Cycle en V / Waterfall
 
-<img src="images/waterfall.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/waterfall.png" style="background:none; border:none; box-shadow:none;"/>
 
 * Utilisé pendant des années dans une majorité des projets informatiques
 * Cycle de développement long
@@ -22,7 +22,7 @@
 * Présenté par **Ken Schwaber** en 1995, publié dans son manifeste en 2001
 * Définit des méthodes et pratiques de pilotage et réalisation de projets
 * Basé sur un système d'**itérations successives**
-<img src="images/agility.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/agility.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

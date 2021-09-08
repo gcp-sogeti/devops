@@ -27,7 +27,7 @@ Recherche la stabilité organisationnelle et de la plateforme de production afin
 ----
 
 ### Le DevOps s'appuie sur des fondements agiles
-<img src="images/devops.jpg" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/devops.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

@@ -3,7 +3,7 @@
 ----
 
 ### Le DevOps à l'infini !!
-<img src="images/devops-infinity-workflow.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/devops-infinity-workflow.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

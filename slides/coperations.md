@@ -3,7 +3,7 @@
 ----
 
 ### S'appuie sur le Continuous Deployment
-<img src="images/wf-coperations.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/wf-coperations.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
