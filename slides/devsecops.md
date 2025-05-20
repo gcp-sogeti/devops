@@ -4,12 +4,17 @@
 
 ### What Is DevSecOps?
 
-DevSecOps refers to the integration of security practices into a DevOps software delivery model. Its foundation is a culture where development and operations are enabled through process and tooling to take part in a shared responsibility for delivering secure software.
+C'est du DevOps avec de vrais bouts de sécurité dedans!
+
+<img src="img/devsecops.png" style="background:none; border:none; box-shadow:none;"/>
+
+A chaque étape, on ajoute les activités de sécurité, mais aussi de sécurisation de la qualité de service.
 
 ----
 
 ### What Is DevSecOps?
 
+DevSecOps refers to the integration of security practices into a DevOps software delivery model. Its foundation is a culture where development and operations are enabled through process and tooling to take part in a shared responsibility for delivering secure software.
 The definition of DevSecOps Model, at a high-functioning level, is to integrate security objectives as early as possible in the lifecycle of software development. While security is “everyone’s responsibility,” DevOps teams are uniquely positioned at the intersection of development and operations, empowered to apply security in both breadth and depth.
 
 ----

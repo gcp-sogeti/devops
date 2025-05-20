@@ -17,7 +17,7 @@ Recherche la stabilité organisationnelle et de la plateforme de production afin
 ----
 
 ### Definition
-> DevOps est la pratique où les ingénieurs de développement (Dev) et d’exploitation (Ops) participent ensemble à l’intégralité du cycle de vie de services : de la conception au support de production en passant par le développement.
+> DevOps est la pratique où les ingénieurs de développement (Dev) et d’exploitation (Ops) participent ensemble à l’intégralité du cycle de vie de services : de la conception au support de production en passant par le développement. Et ça peut être les mêmes acteurs au final, tous DevOps!
 
 ----
 

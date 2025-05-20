@@ -4,6 +4,8 @@
 
 ### Qui a déjà entendu parler du DevOps?
 
+<img src="img/devops-infinity-workflow.png" style="background:none; border:none; box-shadow:none;"/>
+
 ----
 
 ### Pourquoi ce cours?
